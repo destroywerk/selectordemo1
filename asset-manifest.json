@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selectordemo1/static/css/main.83b09974.css",
+    "main.js": "/selectordemo1/static/js/main.b48550bd.js",
+    "index.html": "/selectordemo1/index.html",
+    "main.83b09974.css.map": "/selectordemo1/static/css/main.83b09974.css.map",
+    "main.b48550bd.js.map": "/selectordemo1/static/js/main.b48550bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83b09974.css",
+    "static/js/main.b48550bd.js"
+  ]
+}
